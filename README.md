@@ -1,22 +1,22 @@
 # API
 
 
-select all users
+- Select all users
 ```sh
   domain.tlf/first-api/v1/users/getAll
 ```
 
-add user ( using postman )
+- Add user ( using postman )
 ```sh
   domain.tlf/first-api/v1/users/add
 ```
 
-delete user
+- Delete user
 ```sh
   domain.tlf/first-api/v1/users/delete
 ```
 
-update user info
+- Update user info
 ```sh
   domain.tlf/first-api/v1/users/update
 ```
